@@ -6,16 +6,6 @@
 	objectVersion = 46;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		5BBB70FD1C7A827800901370 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BBB70FC1C7A827800901370 /* AppDelegate.swift */; };
-		5BBB70FF1C7A827800901370 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BBB70FE1C7A827800901370 /* ViewController.swift */; };
-		5BBB71021C7A827800901370 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5BBB71001C7A827800901370 /* Main.storyboard */; };
-		5BBB71041C7A827800901370 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5BBB71031C7A827800901370 /* Assets.xcassets */; };
-		5BBB71071C7A827800901370 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5BBB71051C7A827800901370 /* LaunchScreen.storyboard */; };
-		5BBB71121C7A827800901370 /* Veloci_metro_DigitalTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BBB71111C7A827800901370 /* Veloci_metro_DigitalTests.swift */; };
-		5BBB711D1C7A827800901370 /* Veloci_metro_DigitalUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BBB711C1C7A827800901370 /* Veloci_metro_DigitalUITests.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXContainerItemProxy section */
 		5BBB710E1C7A827800901370 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -35,19 +25,9 @@
 
 /* Begin PBXFileReference section */
 		5B9E6AA11C7A88F700744321 /* Velocímetro Digital 2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Velocímetro Digital 2.playground"; path = "../Velocímetro Digital 2.playground"; sourceTree = "<group>"; };
-		5BBB70F91C7A827800901370 /* Velocímetro Digital.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Velocímetro Digital.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		5BBB70FC1C7A827800901370 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		5BBB70FE1C7A827800901370 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		5BBB71011C7A827800901370 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		5BBB71031C7A827800901370 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		5BBB71061C7A827800901370 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		5BBB71081C7A827800901370 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5BBB710D1C7A827800901370 /* Velocímetro DigitalTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Velocímetro DigitalTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		5BBB71111C7A827800901370 /* Veloci_metro_DigitalTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Veloci_metro_DigitalTests.swift; sourceTree = "<group>"; };
-		5BBB71131C7A827800901370 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5BBB71181C7A827800901370 /* Velocímetro DigitalUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Velocímetro DigitalUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		5BBB711C1C7A827800901370 /* Veloci_metro_DigitalUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Veloci_metro_DigitalUITests.swift; sourceTree = "<group>"; };
-		5BBB711E1C7A827800901370 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5BBB70F91C7A827800901370 /* Velocímetro Digital.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "Velocímetro Digital.app"; path = "/Users/Rodrigo/Documents/Xcode/Velocímetro Digital/Velocímetro Digital/build/Debug-iphoneos/Velocímetro Digital.app"; sourceTree = "<absolute>"; };
+		5BBB710D1C7A827800901370 /* Velocímetro DigitalTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "Velocímetro DigitalTests.xctest"; path = "/Users/Rodrigo/Documents/Xcode/Velocímetro Digital/Velocímetro Digital/build/Debug-iphoneos/Velocímetro DigitalTests.xctest"; sourceTree = "<absolute>"; };
+		5BBB71181C7A827800901370 /* Velocímetro DigitalUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "Velocímetro DigitalUITests.xctest"; path = "/Users/Rodrigo/Documents/Xcode/Velocímetro Digital/Velocímetro Digital/build/Debug-iphoneos/Velocímetro DigitalUITests.xctest"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,52 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				5B9E6AA11C7A88F700744321 /* Velocímetro Digital 2.playground */,
-				5BBB70FB1C7A827800901370 /* Velocímetro Digital */,
-				5BBB71101C7A827800901370 /* Velocímetro DigitalTests */,
-				5BBB711B1C7A827800901370 /* Velocímetro DigitalUITests */,
-				5BBB70FA1C7A827800901370 /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		5BBB70FA1C7A827800901370 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				5BBB70F91C7A827800901370 /* Velocímetro Digital.app */,
-				5BBB710D1C7A827800901370 /* Velocímetro DigitalTests.xctest */,
-				5BBB71181C7A827800901370 /* Velocímetro DigitalUITests.xctest */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		5BBB70FB1C7A827800901370 /* Velocímetro Digital */ = {
-			isa = PBXGroup;
-			children = (
-				5BBB70FC1C7A827800901370 /* AppDelegate.swift */,
-				5BBB70FE1C7A827800901370 /* ViewController.swift */,
-				5BBB71001C7A827800901370 /* Main.storyboard */,
-				5BBB71031C7A827800901370 /* Assets.xcassets */,
-				5BBB71051C7A827800901370 /* LaunchScreen.storyboard */,
-				5BBB71081C7A827800901370 /* Info.plist */,
-			);
-			path = "Velocímetro Digital";
-			sourceTree = "<group>";
-		};
-		5BBB71101C7A827800901370 /* Velocímetro DigitalTests */ = {
-			isa = PBXGroup;
-			children = (
-				5BBB71111C7A827800901370 /* Veloci_metro_DigitalTests.swift */,
-				5BBB71131C7A827800901370 /* Info.plist */,
-			);
-			path = "Velocímetro DigitalTests";
-			sourceTree = "<group>";
-		};
-		5BBB711B1C7A827800901370 /* Velocímetro DigitalUITests */ = {
-			isa = PBXGroup;
-			children = (
-				5BBB711C1C7A827800901370 /* Veloci_metro_DigitalUITests.swift */,
-				5BBB711E1C7A827800901370 /* Info.plist */,
-			);
-			path = "Velocímetro DigitalUITests";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -215,7 +150,7 @@
 				Base,
 			);
 			mainGroup = 5BBB70F01C7A827800901370;
-			productRefGroup = 5BBB70FA1C7A827800901370 /* Products */;
+			productRefGroup = 5BBB70F01C7A827800901370;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -231,9 +166,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5BBB71071C7A827800901370 /* LaunchScreen.storyboard in Resources */,
-				5BBB71041C7A827800901370 /* Assets.xcassets in Resources */,
-				5BBB71021C7A827800901370 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,8 +190,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5BBB70FF1C7A827800901370 /* ViewController.swift in Sources */,
-				5BBB70FD1C7A827800901370 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -267,7 +197,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5BBB71121C7A827800901370 /* Veloci_metro_DigitalTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,7 +204,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5BBB711D1C7A827800901370 /* Veloci_metro_DigitalUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -293,25 +221,6 @@
 			targetProxy = 5BBB71191C7A827800901370 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
-
-/* Begin PBXVariantGroup section */
-		5BBB71001C7A827800901370 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				5BBB71011C7A827800901370 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		5BBB71051C7A827800901370 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				5BBB71061C7A827800901370 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		5BBB711F1C7A827800901370 /* Debug */ = {
